@@ -61,7 +61,7 @@ Index | Field Name | Description | Data Type | Optional | Controlled Vocabulary 
 4|prem_address1|First line of premises address|Text|No|No|LA
 5|post_town|Postal Town|Text|No|No|LA
 6|county|County of premises|Text|No|No|LA
-7|post-code|Postal Code of the of the premises|Text|No|Yes|LA
+7|post_code|Postal Code of the of the premises|Text|No|Yes|LA
 8|offence_category|Category of the offence|Text|No|Yes|LA
 9|offence_provision|Relevant offence provision|Text|No|Yes|LA
 10|eu_contravention|EU regulation contravened|Text|No|Yes|LA
