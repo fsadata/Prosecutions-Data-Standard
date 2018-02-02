@@ -49,7 +49,7 @@ This document is written for Local Authority users who need to submit sampling a
 - [Other Requirements](#other-requirements)
 - [File Naming Conventions](#file-naming-conventions)
 
-## Food Standard Overview
+## Prosecutions Standard Overview
 
 The following table lists the fields (name and description), their data types, whether they are optional, and whether they use a controlled vocabulary.
 
