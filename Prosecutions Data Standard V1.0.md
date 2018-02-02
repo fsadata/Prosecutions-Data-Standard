@@ -31,7 +31,7 @@ This document is written for Local Authority users who need to submit sampling a
  15. [Country](#15-country)  
  16. [Sentence](#16-sentence)  
  17. [Costs Awarded](#17-costs-awarded)  
- 18. [Prosecution_Auth](#18-prosecution-auth)  
+ 18. [Prosecution_Authority](#18-prosecution-auth)  
  19. [LA Reg](#19-la-reg)  
  20. [Company No](#20-company-no)  
  21. [Prohibited Order](#21-prohibited-order)  
