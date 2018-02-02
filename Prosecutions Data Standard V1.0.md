@@ -8,7 +8,7 @@ This document does not describe the mechanism by which data can be submitted to 
 
 ### Who Is This Document For?
 
-This document is written for Local Authority and Laboratory users who need to submit sampling and results data to the FSA.
+This document is written for Local Authority users who need to submit sampling and results data to the FSA.
 
 ### How This Document Is Structured
 
