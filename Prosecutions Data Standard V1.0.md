@@ -104,14 +104,14 @@ Index | Field Name | Description | Data Type | Optional | Controlled Vocabulary 
 
 ### 3. Defendant
 **Field Name:** `defendant`  
-**Data Type:** Text (256 character limit)  
+**Data Type:** Text (255 character limit)  
 **Optional:** No  
 **Source:** Local Authority  
 **Comments:** Name of defendant, could be a trading name.  
 
 ### 4. Prem Address1
 **Field Name:** `prem_address1`  
-**Data Type:** Text (256 character limit)  
+**Data Type:** Text (255 character limit)  
 **Optional:** No  
 **Source:** Local Authority  
 **Comments:** First line of the premises address.
