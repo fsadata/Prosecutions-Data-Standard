@@ -168,7 +168,7 @@ Index | Field Name | Description | Data Type | Optional | Controlled Vocabulary 
 **Source:** Local Authority  
 **Comments:** Brief textual description of the offence.
  
-### 12. Date of conviction
+### 12. Date of Conviction
 **Field Name:** `date_of_conviction`  
 **Data Type:** Date (format: `YYYY-MM-DD hh:mm:ss`)  
 **Optional:** Yes  
