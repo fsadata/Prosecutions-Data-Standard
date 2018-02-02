@@ -17,7 +17,7 @@ This document is written for Local Authority users who need to submit sampling a
  1. [FBO](#1-fbo)  
  2. [TA Name](#2-ta-name) 
  3. [Defendant](#3-defendant)
- 4. [Prem Address 1](#4-prem-address1)  
+ 4. [Prem Address1](#4-prem-address1)  
  5. [Post Town](#5-post-town)  
  6. [County](#6-county)  
  7. [Postcode](#7-postcode)  
@@ -109,7 +109,7 @@ Index | Field Name | Description | Data Type | Optional | Controlled Vocabulary 
 **Source:** Local Authority  
 **Comments:** Name of defendant, could be a trading name.  
 
-### 4. Prem Address 1
+### 4. Prem Address1
 **Field Name:** `prem_address1`  
 **Data Type:** Text (256 character limit)  
 **Optional:** No  
