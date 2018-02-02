@@ -21,7 +21,7 @@ This document is written for Local Authority users who need to submit sampling a
  5. [Post Town](#5-post-town)  
  6. [County](#6-county)  
  7. [Postcode](#7-postcode)  
- 8. [Offense Category](#8-offense-category)  
+ 8. [Offence Category](#8-offense-category)  
  9. [Offence Provision](#9-offence-provision)  
  10. [EU Contravention](#10-eu-contravention)  
  11. [Nature_of Offence](#11-nature-of-offence)  
