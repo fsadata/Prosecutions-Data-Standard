@@ -12,7 +12,7 @@ This document is written for Local Authority users who need to submit sampling a
 
 ### How This Document Is Structured
 
-- [Prosecutions Standard Overview](#Prosecutions-standard-overview) Contains a brief overview of all the fields in the standard.  
+- [Prosecutions Standard Overview](#prosecutions-standard-overview) Contains a brief overview of all the fields in the standard.  
 - [Field Definitions](#field-definitions) Complete definitions for each field in the standard, includes constraints and specific data type formatting requirements.  
  1. [FBO](#1-fbo)  
  2. [TA Name](#2-ta-name) 
